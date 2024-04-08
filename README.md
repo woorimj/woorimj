@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MY%20GITHUB&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=20BDFF&height=300&section=header&text=MY%20GITHUB&fontSize=70&animation=fadeIn" />
 
 <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
 
